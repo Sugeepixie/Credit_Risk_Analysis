@@ -11,21 +11,21 @@ The purpose of this project is to build and evaluate following machine learning 
 
 The Balanced accuracy score is 62%
 
-[RandomOverSampler](https://user-images.githubusercontent.com/76926148/206973020-b8d1d071-785e-4d23-9cb7-00d4f9d3144f.PNG)
+![RandomOverSampler](https://user-images.githubusercontent.com/76926148/206973020-b8d1d071-785e-4d23-9cb7-00d4f9d3144f.PNG)
 
 
 ### SMOTE Oversampling
 
 The Balanced accuracy score is 65%
 
-[SMOTE](https://user-images.githubusercontent.com/76926148/206973997-70d695d8-d9ba-455d-8c52-6d1d74f41e08.PNG)
+![SMOTE](https://user-images.githubusercontent.com/76926148/206973997-70d695d8-d9ba-455d-8c52-6d1d74f41e08.PNG)
 
 
 ### ClusterCentriod Undersampling
 
 The Balanced accuracy score is 51.6%
 
-[ClusterCentroid](https://user-images.githubusercontent.com/76926148/206974206-bf713397-ba92-42f1-8d3f-1ba310159cf1.PNG)
+![ClusterCentroid](https://user-images.githubusercontent.com/76926148/206974206-bf713397-ba92-42f1-8d3f-1ba310159cf1.PNG)
 
 
 ### SMOTEENN Combination Sampling
